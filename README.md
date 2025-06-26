@@ -32,7 +32,6 @@ superstore-analysis/
 │ ├── dashboard_screenshot.png
 ├── README.md # Project overview and instructions
 ├── LICENSE # MIT License
-
 ---
 
 ## 🔍 Key Insights
