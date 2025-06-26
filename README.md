@@ -1,6 +1,6 @@
-# 📊 Superstore Sales Analysis
+#  Superstore Sales Analysis
 
-## 📝 Project Overview
+##  Project Overview
 This project analyzes the **Superstore dataset** (9,994 rows, 21 columns, 2015–2018) to uncover actionable insights for marketing and managerial decisions.
 
 - **Tools Used:** Python (Pandas, Seaborn, Matplotlib) for data cleaning and EDA, and Power BI for interactive visualizations.
@@ -8,7 +8,7 @@ This project analyzes the **Superstore dataset** (9,994 rows, 21 columns, 2015�
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze sales data to identify trends, patterns, and opportunities.
 - Provide actionable insights for optimizing profitability and business strategies.
@@ -16,14 +16,14 @@ This project analyzes the **Superstore dataset** (9,994 rows, 21 columns, 2015�
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 <pre> <code> superstore-analysis/ ├── superstore_analysis.ipynb # Python Jupyter Notebook with data cleaning and EDA ├── superstore_dashboard.pbix # Power BI dashboard file ├── superstore_sales_report.pptx # PowerPoint presentation (9 slides) ├── superstore_sales_report.pdf # PDF version of the presentation ├── Sample - Superstore.csv # Dataset used for analysis ├── visuals/ # Exported visuals from Python and Power BI │ ├── profit_histogram.png │ ├── discount_profit_scatter.png │ ├── top_products_bar.png │ ├── correlation_heatmap.png │ ├── dashboard_screenshot.png ├── README.md # Project overview and instructions ├── LICENSE # MIT License </code> </pre>
 
 ---
 
 
-## 🔍 Key Insights
+##  Key Insights
 
 - **Discounts & Profitability:** High discounts negatively impact profits—optimization is crucial.
 - **Category Performance:** Technology (especially *Copiers*) yields the highest profits, while Furniture (e.g., *Tables*, *Bookcases*) incurs losses.
@@ -34,24 +34,24 @@ This project analyzes the **Superstore dataset** (9,994 rows, 21 columns, 2015�
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
-### 🔹 Python:
+###  Python:
 - `Pandas` for data manipulation  
 - `Seaborn` and `Matplotlib` for visualizations  
 
-### 🔹 Power BI:
+###  Power BI:
 - Interactive dashboard with KPIs  
   - **Total Sales:** \$2,297,000  
   - **Total Profit:** \$287,000  
 - Visuals: Line, pie, bar charts, and slicers
 
-### 🔹 PowerPoint:
+###  PowerPoint:
 - 9-slide professional presentation summarizing findings
 
 ---
 
-## 📸 Visuals
+##  Visuals
 
 ### Python Visuals (in `/visuals`):
 - `profit_histogram.png`: Right-skewed distribution of profits
@@ -70,18 +70,18 @@ This project analyzes the **Superstore dataset** (9,994 rows, 21 columns, 2015�
 
 ## ▶ How to Run
 
-### 🔹 Python Analysis:
+###  Python Analysis:
 1. Install dependencies:  
 2. Open `superstore_analysis.ipynb` in **Jupyter Notebook**
 3. Dataset: Use included `Sample - Superstore.csv`  
 *(If missing, download from [[Kaggle link](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final?utm_source=chatgpt.com)])*
 
-### 🔹 Power BI Dashboard:
+###  Power BI Dashboard:
 - Open `superstore_dashboard.pbix` in **Power BI Desktop**
 - Explore the interactive dashboard  
 - Screenshots are also available in `visuals/` and `.pptx`
 
-### 🔹 Presentation:
+### Presentation:
 - View the summarized report in `superstore_sales_report.pptx` or `superstore_sales_report.pdf`
 
 ---
