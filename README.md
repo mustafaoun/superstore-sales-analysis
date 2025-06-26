@@ -18,20 +18,7 @@ This project analyzes the **Superstore dataset** (9,994 rows, 21 columns, 2015�
 
 ## 📁 Repository Structure
 
-superstore-analysis/
-├── superstore_analysis.ipynb # Python Jupyter Notebook with data cleaning and EDA
-├── superstore_dashboard.pbix # Power BI dashboard file
-├── superstore_sales_report.pptx # PowerPoint presentation (9 slides)
-├── superstore_sales_report.pdf # PDF version of the presentation
-├── Sample - Superstore.csv # Dataset used for analysis
-├── visuals/ # Exported visuals from Python and Power BI
-│ ├── profit_histogram.png
-│ ├── discount_profit_scatter.png
-│ ├── top_products_bar.png
-│ ├── correlation_heatmap.png
-│ ├── dashboard_screenshot.png
-├── README.md # Project overview and instructions
-├── LICENSE # MIT License
+<pre> <code> superstore-analysis/ ├── superstore_analysis.ipynb # Python Jupyter Notebook with data cleaning and EDA ├── superstore_dashboard.pbix # Power BI dashboard file ├── superstore_sales_report.pptx # PowerPoint presentation (9 slides) ├── superstore_sales_report.pdf # PDF version of the presentation ├── Sample - Superstore.csv # Dataset used for analysis ├── visuals/ # Exported visuals from Python and Power BI │ ├── profit_histogram.png │ ├── discount_profit_scatter.png │ ├── top_products_bar.png │ ├── correlation_heatmap.png │ ├── dashboard_screenshot.png ├── README.md # Project overview and instructions ├── LICENSE # MIT License </code> </pre>
 ---
 
 ## 🔍 Key Insights
