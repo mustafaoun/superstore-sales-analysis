@@ -68,7 +68,7 @@ This project analyzes the **Superstore dataset** (9,994 rows, 21 columns, 2015â€
 
 ---
 
-## â–¶ How to Run
+##  How to Run
 
 ###  Python Analysis:
 1. Install dependencies:  
